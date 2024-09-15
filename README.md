@@ -21,9 +21,3 @@ This project builds a product recommendation system for a bank. The system analy
 
 ## Product Recommendation
 A custom function `gbdt_product_recommender` recommends the top N banking products based on the predicted probability scores for each customer.
-
-## Requirements
-All the necessary packages and dependencies are listed in the `requirements.txt`.
-
-## Usage
-To run the product recommendation system, open it on Google Colab and run cell by cell.
